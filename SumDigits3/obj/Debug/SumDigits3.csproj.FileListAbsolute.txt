@@ -1,0 +1,7 @@
+C:\Users\ettar\OneDrive\Desktop\Projects\Apprendre\SumDigits3\SumDigits3\bin\Debug\SumDigits3.exe.config
+C:\Users\ettar\OneDrive\Desktop\Projects\Apprendre\SumDigits3\SumDigits3\bin\Debug\SumDigits3.exe
+C:\Users\ettar\OneDrive\Desktop\Projects\Apprendre\SumDigits3\SumDigits3\bin\Debug\SumDigits3.pdb
+C:\Users\ettar\OneDrive\Desktop\Projects\Apprendre\SumDigits3\SumDigits3\obj\Debug\SumDigits3.csproj.AssemblyReference.cache
+C:\Users\ettar\OneDrive\Desktop\Projects\Apprendre\SumDigits3\SumDigits3\obj\Debug\SumDigits3.csproj.CoreCompileInputs.cache
+C:\Users\ettar\OneDrive\Desktop\Projects\Apprendre\SumDigits3\SumDigits3\obj\Debug\SumDigits3.exe
+C:\Users\ettar\OneDrive\Desktop\Projects\Apprendre\SumDigits3\SumDigits3\obj\Debug\SumDigits3.pdb
